@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "885bd860a9f6fe4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c11c7834fa768d3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Программирование/Python/Основы Python/Управляющие инструкции.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f8e4c30e40b5b98",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3d69ef283e425a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57ee1cdb55f71c41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "38010761c0011fc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d71e01e1b1e3dd5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38e39d62d7245969",
+    "type": "split",
+    "children": [
+      {
+        "id": "bee289d0dcb6d1b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a135d4683a6dcd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Программирование/Python/Основы Python/Управляющие инструкции.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f2580698e8758c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/Программирование/Python/Основы Python/Управляющие инструкции.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4f14814a7ec3acf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d490fb66bd14d1cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/Программирование/Python/Основы Python/Управляющие инструкции.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8c11c7834fa768d3",
+  "lastOpenFiles": [
+    "Base/Программирование/Python/Основы Python/Цикл while.md",
+    "Base/Программирование/Python/Основы Python/00_Основы языка Python.md",
+    "Base/Программирование/Python/Модули Python/Модуль math.md",
+    "Base/Программирование/Python/Модули Python/Модули.md",
+    "Base/Программирование/Python/Основы Python/Встроенные функции и методы для работы с числами.md",
+    "Base/Программирование/Python/Основы Python/Операторы.md",
+    "Base/Программирование/Python/Основы Python/Операторы сравнения (реляционные).md",
+    "Base/Программирование/Python/Основы Python/Арифметические операторы.md",
+    "Base/Сетевые технологии/Канальный уровень.md",
+    "Base/Сетевые технологии/Модель OSI.md"
+  ]
+}
