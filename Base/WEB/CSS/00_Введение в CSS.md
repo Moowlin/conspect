@@ -77,7 +77,8 @@ body {
 
 
 # Присоединение CSS к HTML-документу
-Есть **три способа** применить правила CSS к HTML-документу. Ниже мы рассмотрим эти три метода. Мы рекомендуем сосредоточиться на третьем - то есть **внешней/external таблице стилей**.
+Есть **три способа** применить правила CSS к HTML-документу. Ниже мы рассмотрим эти три метода. 
+>**Мы рекомендуем сосредоточиться на третьем - то есть внешней/external таблице стилей.**
 
 ## Метод 1: Встроенные стили (атрибут style)
 Можно применять CSS к HTML с помощью HTML-атрибута **style**. Красный цвет текста для абзаца можно установить так:
@@ -157,6 +158,7 @@ p { color: red; }
 ___
 ##### Links
 https://stepik.org/lesson/570126/step/5?unit=564665
+[[Примеры CSS]]
 
 ---
 ##### Источники
@@ -165,3 +167,7 @@ https://developer.mozilla.org/ru/docs/Learn/CSS/First_steps
 [Учебник CSS для начинающих](https://msiter.ru/tutorials/css-nachalnogo-urovnya)
 
 [Справочник CSS](http://htmlbook.ru/css)
+
+https://msiter.ru/tutorials/html-nachalnogo-urovnya/tegi-atributy-elementy
+https://colorscheme.ru/html-colors.html
+https://www.w3.org/Style/Examples/007/fonts.ru.html
