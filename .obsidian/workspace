@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/VCS/Основные команды.md",
-            "mode": "preview",
+            "file": "Base/ОС/Windows/Редактор локальной групповой политики.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/VCS/Основные команды.md",
+                "file": "Base/ОС/Windows/Редактор локальной групповой политики.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/VCS/Основные команды.md",
+                "file": "Base/ОС/Windows/Редактор локальной групповой политики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/VCS/Основные команды.md"
+                "file": "Base/ОС/Windows/Редактор локальной групповой политики.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "8c11c7834fa768d3",
   "lastOpenFiles": [
+    "Base/ОС/Windows/Администрирование Windows для начинающих.md",
+    "Base/ОС/Windows/Редактор локальной групповой политики.md",
+    "Base/ОС/Windows/Что такое ММС.md",
     "Base/VCS/00_Основы Git.md",
-    "Base/Программирование/Python/Основы Python/Функция range().md",
-    "Base/Программирование/Python/Основы Python/Цикл for.md",
+    "Files/Screenshot from 2022-10-10 21-41-50.png",
     "Base/Программирование/Python/Основы Python/00_Основы языка Python.md",
-    "Base/Программирование/Python/Основы Python/Списочные выражения.md",
-    "Base/Программирование/Python/Основы Python/Операторы для работы с последовательностями.md",
-    "Base/Программирование/Python/Основы Python/Методы списков.md",
-    "Base/Программирование/Python/Основы Python/Обработка ошибок и исключений.md",
-    "Base/Программирование/Python/Модули Python/Модуль ramdon.md",
-    "Base/Программирование/Python/Основы Python/Методы словарей.md"
+    "Base/Программирование/Python/00 Python.md",
+    "Base/Программирование/Языки программирования.md",
+    "Base/VCS/Основные команды.md",
+    "Base/Программирование/Python/Основы Python/Функция range().md"
   ]
 }
