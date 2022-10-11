@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Программирование/Python/Основы Python/Управляющие инструкции.md",
+            "file": "Base/VCS/Основные команды.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "range",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Программирование/Python/Основы Python/Управляющие инструкции.md",
+                "file": "Base/VCS/Основные команды.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Программирование/Python/Основы Python/Управляющие инструкции.md",
+                "file": "Base/VCS/Основные команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,11 +117,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Программирование/Python/Основы Python/Управляющие инструкции.md"
+                "file": "Base/VCS/Основные команды.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -129,15 +130,15 @@
   },
   "active": "8c11c7834fa768d3",
   "lastOpenFiles": [
-    "Base/Программирование/Python/Основы Python/Цикл while.md",
+    "Base/VCS/00_Основы Git.md",
+    "Base/Программирование/Python/Основы Python/Функция range().md",
+    "Base/Программирование/Python/Основы Python/Цикл for.md",
     "Base/Программирование/Python/Основы Python/00_Основы языка Python.md",
-    "Base/Программирование/Python/Модули Python/Модуль math.md",
-    "Base/Программирование/Python/Модули Python/Модули.md",
-    "Base/Программирование/Python/Основы Python/Встроенные функции и методы для работы с числами.md",
-    "Base/Программирование/Python/Основы Python/Операторы.md",
-    "Base/Программирование/Python/Основы Python/Операторы сравнения (реляционные).md",
-    "Base/Программирование/Python/Основы Python/Арифметические операторы.md",
-    "Base/Сетевые технологии/Канальный уровень.md",
-    "Base/Сетевые технологии/Модель OSI.md"
+    "Base/Программирование/Python/Основы Python/Списочные выражения.md",
+    "Base/Программирование/Python/Основы Python/Операторы для работы с последовательностями.md",
+    "Base/Программирование/Python/Основы Python/Методы списков.md",
+    "Base/Программирование/Python/Основы Python/Обработка ошибок и исключений.md",
+    "Base/Программирование/Python/Модули Python/Модуль ramdon.md",
+    "Base/Программирование/Python/Основы Python/Методы словарей.md"
   ]
 }
