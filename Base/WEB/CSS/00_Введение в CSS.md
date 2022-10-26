@@ -160,6 +160,7 @@ ___
 https://stepik.org/lesson/570126/step/5?unit=564665
 [[Примеры CSS]]
 
+https://webref.ru/css
 ---
 ##### Источники
 https://developer.mozilla.org/ru/docs/Learn/CSS/First_steps
